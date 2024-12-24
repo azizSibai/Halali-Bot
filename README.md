@@ -1,4 +1,5 @@
 # Halali Bot
+## A Discord bot I created around 3 years ago
 
 ### Navigate:
 + [Halalis](https://github.com/Coraff/Halali-Bot/blob/main/README.md#halalis)
